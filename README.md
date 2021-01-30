@@ -7,7 +7,7 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 Three machine/deep learning models, logistic regression(LR), random forest(RF) and neural network(NN) were used.
 
 ### Results
-The NN has highest accuray (0.91). The grid search scores of RF and LR are 0.89 and 0.89, respectively.
+The NN has the highest accuray (0.91). The grid search scores of RF and LR are 0.89 and 0.89, respectively.
 
 ### Summary
 The results are consistent with a previous study which showed that NN and RF showed a higher efficiency compared to LR (Pashchenko et al., 2018).
