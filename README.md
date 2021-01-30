@@ -10,7 +10,7 @@ Three machine/deep learning models, logistic regression(LR), random forest(RF) a
 The NN has highest accuray (0.91). The gridsearch scores of RF and LR are 0.89 and 0.89, respectively.
 
 ### Summary
-The results are consistent with a previous study which showed that NN and RF show a higher efficiency compared to LR (Pashchenko et al., 2018).
+The results are consistent with a previous study which showed that NN and RF showed a higher efficiency compared to LR (Pashchenko et al., 2018).
 
 ### Reference
 Pashchenko I.N., Sokolovsky K.V., Gavras P. (2018). Machine learning search for variable stars. Mon. Not. R. Astron. doi: 10.1093/mnras/stx3222
